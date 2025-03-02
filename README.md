@@ -1,3 +1,5 @@
+**Disclaimer:** This is just a simple learning project from Boot.dev and is not meant to represent production-level quality. I may choose to make this repository private in the future as it is still a work in progress.
+
 ## Overview
 BookBot reads a book file provided via a command‑line argument and generates simple statistics such as:
 - **Word Count:** Total number of words in the book.
